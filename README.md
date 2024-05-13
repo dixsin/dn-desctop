@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/5EmxevP.png" width="150" align="left"/>
+<img src="https://i.imgur.com/C461Dd6.png" width="150" align="left"/>
 
 ## exteraGram
 *[Licensed under the GNU General Public License v2.0](https://github.com/exteraSquad/exteraGram/blob/default/LICENSE)*
