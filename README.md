@@ -10,4 +10,14 @@ This is `NOT` a standard **Telegram** client!
 ## This client will have a lot of fixes from the previous forked `exteraGram` project.
 The `dixsinGram` client is currently being **developed**!
 
-This telegram client can be used to copy and `fix bugs`!
+- This telegram client can be used to copy and `fix bugs`!
+- 
+## **exteraGram** can be built with **Android Studio** or from the command line with **Gradle**:
+### Windows: 
+```
+gradlew assembleAfatRelease
+```
+### Linux: 
+```
+./gradlew assembleAfatRelease
+```
