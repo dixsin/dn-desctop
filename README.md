@@ -14,7 +14,6 @@ The `dixsinGram` client is currently being **developed**!
 - This telegram client has very frequent `updates`!
 - Our telegram client allows you to maintain complete user `confidentiality`!
 
-- 
 ## **exteraGram** can be built with **Android Studio** or from the command line with **Gradle**:
 ### Windows: 
 ```
