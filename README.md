@@ -2,15 +2,6 @@
 
 ## dixsinGram
 
-
-*[Licensed under the GNU General Public License v2.0](https://github.com/exteraSquad/exteraGram/blob/default/LICENSE)*
-
-Experimental **third-party** Telegram client based on [official sources](https://github.com/DrKLO/Telegram).
-
-[![Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/exteraGram)
-[![Chat](https://img.shields.io/badge/Chat-Telegram-blue.svg)](https://t.me/exteraChat)
-[![Downloads](https://img.shields.io/badge/Download%20at%20-%20Telegram-blue.svg)](https://t.me/exteraReleases)
-
 ## Importing API hash and keys
 - You should get **YOUR OWN API KEY AND HASH** here: https://core.telegram.org/api/obtaining_api_id and create a file called `API_KEYS` in the source root directory.
 - Also you should get **YOUR OWN MAPS API KEY** here: https://console.cloud.google.com/google/maps-apis/credentials and add it to this file.
